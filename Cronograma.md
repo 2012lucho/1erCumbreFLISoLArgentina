@@ -34,7 +34,7 @@ Elegir otra actividad “energizante
 
 Todo el tiempo: Tablero Me gusta / se puede mejorar: post-its con propuesta de mejora o “me gusta” 
 
-
+# Posibles "actividades energizantes"
 Find your paire (variante software libre)
 
 6 cartones con pares de animales del software libre:
@@ -56,18 +56,17 @@ Pez globo (OpenBSD)
 Los participantes tienen que encontrar a su par solo haciendo el ruido del animal que les tocó.
 
 
-
-Open Space
+# Open Space
 En un Open Space los asistentes se autoorganizan proponiendo temas y programando una serie de sesiones donde tratarlos. Las reuniones pueden tener lugar simultáneamente y los asistentes son libres de decidir a qué sesiones quieren asistir y de cambiar de reunión en cualquier momento.
 
-LOS CUATRO PRINCIPIOS
+## LOS CUATRO PRINCIPIOS
 Cualquier persona que se presente en una reunión es la persona adecuada (cualquier participante en una reunión es correcto simplemente porque se ha preocupado en venir).
 Cualquier cosa que esté sucediendo es la única cosa que podremos llegar a tener (has de estar atento a lo que está pasando ahora, en lugar de preocuparte sobre lo que podría pasar).
 Sea cual sea el momento en que comience [la reunión], es el momento correcto (este principio ayuda a superar la falta de un horario o agendas previo al Open Space y enfatiza la creatividad y la innovación).
 Cuando se acabó [la reunión], se acabó (fomenta que los participantes no desperdicien el tiempo y, por el contrario, que cambien a otro tema cuando una discusión deja de ser fructífera para ellos).
-LA ÚNICA LEY: “LA LEY DE LOS DOS PIES”
+## LA ÚNICA LEY: “LA LEY DE LOS DOS PIES”
 Si en algún momento sientes que no estás aprendiendo o contribuyendo en nada, usa tus dos pies. Vete a otra reunión donde puedas aprender o contribuir. Nadie debería estar en una reunión que considera aburrida, sólo deberían asistir a una reunión las personas que estén genuinamente interesadas en el tema.
-QUÉ SE NECESITA
+## QUÉ SE NECESITA
 Varios espacios para poder reunirse:
 Una sala “central”, con capacidad para todos los asistentes. En ella se propondrán los temas del Open Space, estará ubicado el horario y al final del Open Space se explicarán los resultados de las reuniones. Los asistentes se sentarán formando un semicírculo casi cerrado, de manera que se facilite el contacto visual entre todos.
 Tantos espacios de reunión como reuniones simultáneas se prevea tratar o realizar, normalmente se corresponden con materias (“tracks”). Estos espacios deben ser muy cercanos para que los asistentes al Open Space puedan moverse fácilmente durante y después de cada reunión. 
@@ -80,7 +79,7 @@ Material para cada reunión:
 Para cada reunión que se mantenga simultáneamente: una pizarra blanca o similar donde poder escribir, así como rotuladores y/o marcadores de colores.
 Tarjetas, rotuladores y cinta adhesiva.
 Un facilitador para explicar y guiar el proceso, especialmente durante la creación del horario y en el cierre del Open Space.
-EL PROCESO
+## EL PROCESO
 Introducción (15’)
 El facilitador explica las grandes materias (“tracks”) que se tratarán en el Open Space, el proceso, los cuatro principios y la única ley.
 Propuesta de temas concretos y programación en el horario (45’).
