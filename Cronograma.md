@@ -4,9 +4,10 @@ Actividad “energizante” -> http://www.funretrospectives.com/category/energiz
 --- desayuno
 
 10:30 Apertura /
-      Palabras de Luciano Vega, Coordinador Sede Tandil
-      Palabras de Diego Accorinti, Coordinador Nacional
-      Presentar el informe FLISOL 2017
+
+  * Palabras de Luciano Vega, Coordinador Sede Tandil
+  * Palabras de Diego Accorinti, Coordinador Nacional
+  * Presentación del Informe Nacional FLISOL 2017
 
 11:00 Armado de Open Space dia 1. Propuestas de Open Space. Armar. Marketplace
 
