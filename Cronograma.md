@@ -2,7 +2,11 @@
 *10:00 Comienzo 
 Actividad “energizante” -> http://www.funretrospectives.com/category/energizer/  
 --- desayuno
-10:30 Apertura / plenaria: presentar el informe FLISOL 2017??
+
+10:30 Apertura /
+      Palabras de Luciano Vega, Coordinador Sede Tandil
+      Palabras de Diego Accorinti, Coordinador Nacional
+      Presentar el informe FLISOL 2017
 
 11:00 Armado de Open Space dia 1. Propuestas de Open Space. Armar. Marketplace
 
@@ -19,17 +23,17 @@ Actividad “energizante” -> http://www.funretrospectives.com/category/energiz
 # DIA 2 - DOMINGO 27
 ¿Salida sierra?
 
-10:00 Comienzo 
-Elegir otra actividad “energizante
+10:00 Comienzo - otra actividad "energizante"
+
 10:30 Volver a acomodar el marketplace para agregar más charlas al open space
 
 11:00 - 13:00 Plenaria “Voto electrónico” (lo podemos hacer en la sierra/dique???)
 
 13:00 Almuerzo (lo podemos hacer en la sierra/dique???)
 
-14:00 - 17:00 Open Space (definir hasta qué hora en base a pasajes de regreso)
+14:00 - 16:00 Open Space (definir hasta qué hora en base a pasajes de regreso)
 
-17:00 Plenaria, conclusiones y cierre
+16:00 Plenaria, conclusiones y cierre
 
 
 Todo el tiempo: Tablero Me gusta / se puede mejorar: post-its con propuesta de mejora o “me gusta” 
